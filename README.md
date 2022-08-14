@@ -18,7 +18,7 @@ This is my code for the QR code project.
 
 ### Links
 
-- Solution URL: [https://github.com/anshFE97/Frontend-Mentor]
+- Solution URL: [https://github.com/anshFE97/Frontend-Mentor-Project]
 
 ### Built with
 
